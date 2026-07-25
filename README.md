@@ -1,4 +1,3 @@
-# luxe-beauty-expo
 # Luxe Beauty Expo
 
 A responsive event registration website developed using HTML, CSS, Bootstrap, PHP, and MySQL. This project allows users to register, log in securely, book event tickets, and manage their profile through a modern and user-friendly interface.
