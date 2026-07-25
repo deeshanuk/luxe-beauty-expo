@@ -101,15 +101,11 @@ http://localhost/luxe-beauty-expo/
 
 ---
 
-# Screenshots
+# Project Demo
 
-- Home Page
-- About Page
-- Login
-- Signup
-- Ticket Booking
-- User Profile
-- My Bookings
+Watch the complete project demonstration here:
+
+https://youtu.be/L-C-4W1yX-g
 
 ---
 
