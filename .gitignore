@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Composer
+vendor/
+
+# Environment
+.env
+
+# Node
+node_modules/
