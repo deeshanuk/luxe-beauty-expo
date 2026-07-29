@@ -125,8 +125,5 @@ https://youtu.be/L-C-4W1yX-g
 
 Deeshanu Kundu
 
-MCA Student | Aspiring Full Stack Developer
+MCA Student | Full Stack Developer
 
----
-
-⭐ If you found this project helpful, consider giving it a star.
